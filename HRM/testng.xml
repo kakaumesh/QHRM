@@ -5,6 +5,7 @@
   <parameter name="Browser" value="chrome"></parameter>
     <classes>
       <class name="Test.VerifyAdminPage"/>
+      <class name="Test.VerifyAddUser"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
